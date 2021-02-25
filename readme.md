@@ -1,13 +1,7 @@
-> **业务场景**：先去文章讲了如何从github官方代码中抽离流程设计器[《flowable 流程设计器 抽离，及源码改造原理分析》](https://www.jianshu.com/p/13093a1cd6a8)
-> 本章主要在上一篇章的基础上，整合 **flowable引擎** 和 **mybatis-plus**，以及流程图部署
->
+
 > **环境**：
 >   springboot：2.2.0.RELEASE
 >   flowable：6.4.2
->
-> git地址：[https://github.com/oldguys/flowable-modeler-demo/tree/branch_with_flowable_engine_and_mybatis_plus](https://github.com/oldguys/flowable-modeler-demo/tree/branch_with_flowable_engine_and_mybatis_plus)
->
-> 上一篇：[《flowable 流程设计器抽离，及源码改造原理分析》](https://www.jianshu.com/p/13093a1cd6a8)
 >
 >
 >
